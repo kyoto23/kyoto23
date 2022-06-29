@@ -2,8 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python,because is my favourite programming language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
+
 
 <!---
 kyoto23/kyoto23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
