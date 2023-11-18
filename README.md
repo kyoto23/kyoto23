@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyoto23
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python,because is my favourite programming language
+- 🌱 I’m currently learning python,because it`s my favourite programming language
 - 💞️ I’m looking to collaborate on ...
 
 
