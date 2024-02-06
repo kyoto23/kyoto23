@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyoto23
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python,because it`s my favourite programming language
+- 🐍 Slytherin student
 - 💞️ I’m looking to collaborate on ...
 
 
